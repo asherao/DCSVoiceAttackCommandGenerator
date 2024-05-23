@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCSVoiceAttackCommandGenerator", "DCSVoiceAttackCommandGenerator\DCSVoiceAttackCommandGenerator.csproj", "{AA9E2762-0CFB-4FF0-BF87-D7CA23F7E0FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9E2762-0CFB-4FF0-BF87-D7CA23F7E0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9E2762-0CFB-4FF0-BF87-D7CA23F7E0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9E2762-0CFB-4FF0-BF87-D7CA23F7E0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9E2762-0CFB-4FF0-BF87-D7CA23F7E0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5373F09A-3978-411C-85CA-37EB40F7C7EB}
+	EndGlobalSection
+EndGlobal
